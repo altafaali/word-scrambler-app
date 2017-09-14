@@ -1,3 +1,5 @@
 # word-scrambler-app
 # A Xamarin-based IOS app which scrambles a random word and lets you guess it in 10 seconds. 
-# The Xamarin project file and source files are included so just load in Xamarin Studo, build, run and enjoy.
+# To use, run the following command on the mac os terminal 
+# tar xvf scramble.zip and it will unpack into a new folder scramble which has 
+# the Xamarin project file and source files
